@@ -1,3 +1,23 @@
+# Data files
+*.arr
+*.array
+*.csv
+*.jpeg
+*.jpg
+*.jsonl
+*.npy
+*.h5
+*.h5ad
+*.hdf5
+*.pdf
+*.pickle
+*.pkl
+*.png
+*.pt
+*.pth
+*.svg
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +25,13 @@ __pycache__/
 
 # C extensions
 *.so
+
+# PyCharm
+.idea/
+
+# Notebooks are not allowed by default
+*.nb
+*.ipynb
 
 # Distribution / packaging
 .Python
