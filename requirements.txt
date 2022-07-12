@@ -1,0 +1,10 @@
+black
+flake8
+jax
+jaxlib
+numpy
+pre-commit
+pytest
+pytest-cov
+pytest-xdist
+pytype
