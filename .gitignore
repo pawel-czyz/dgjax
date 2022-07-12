@@ -18,6 +18,10 @@
 *.svg
 *.zip
 
+# Code quality files
+.pytype/
+.coverage/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
